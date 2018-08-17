@@ -1,0 +1,205 @@
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+
+
+/****************************Background Colors*/
+
+.navigation {
+    color:#fafafa;
+}
+
+ body { 
+    background-color: #211865;
+    height: 100%;
+}
+
+.menu-item {
+    background-color: #e01d20;
+}
+
+
+/******************************Navigation  Menu*/
+
+#nav {
+    font-size: 25px;
+    text-align: center;
+    letter-spacing:2px;
+    font-family: 'Do Hyeon', sans-serif;
+    background: #e01d20;
+}
+
+li {
+    float: left;
+    padding:10px;
+}
+
+
+a:link:hover {
+    text-decoration: none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+
+.opening {
+    text-align:center;
+    color:#030303;
+    font-family: 'Do Hyeon', sans-serif;
+    position:absolute;
+}
+
+
+
+.news {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+.ul-home {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color:#e01d20;
+}
+
+footer {
+  bottom: 0;
+  background-color:#e01d20;
+}
+
+h5,h1 {
+    padding-top:5px;
+    font-family: 'Do Hyeon', sans-serif;
+    color:#fafafa;
+    padding-left: 30%;
+}
+
+h1 {
+    padding-left: 40%;
+    padding-top: 10px;
+}
+
+.social-links {
+    padding-left: 20%;
+}
+
+.center-page {
+    width: 700px;
+    padding-top: 10px;
+    margin-left: 22%;
+    padding-bottom: 10px;
+}
+
+/*/////////////////////////////Album work*/
+ 
+ 
+
+.greatest-hits {
+    padding-left: 10px;
+}
+
+.information {
+    font-family: 'Roboto Mono', monospace;
+    padding-top: 4%;
+    color: #fafafa;
+    
+}
+
+.social-links {
+    padding-bottom: 15px;
+    
+}
+
+.social-links li a i {
+    width:32px;
+    height: 32px;
+    padding: 12px;
+    border-radius: 60%;
+    font-size: 20px;
+    color: #fafafa;
+    transition: all 0.35 ease-in-out;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.menu-item a{
+    width:100%;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.greatest-hits {
+    float:left;
+    width:20%;
+    padding-top: 15px;
+}
+
+.key { 
+    display: inline-block;
+    width:30%;
+    margin-right: 21px;
+    padding-top:2px;
+    vertical-align: top;
+}
+
+
+.personal-info-item {
+    margin-bottom: 20px;
+    display:block;
+    clear: both;
+    
+}
+
+.column {
+    float: left;
+    width: 20%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.card{
+    float: left;
+    padding-left:7%;
+    padding-top: 25px;
+    background:none;
+    border:0;
+}
+
+.shirts {
+    padding-top: 25px;
+    width: 33%;
+    padding-left: 30px;
+}
+
+
+button[type="button"] {
+    margin-top:15px;
+    margin-bottom:20px;
+    color:#fafafa;
+    border-radius:15px;
+    margin-left:38%;
+  
+}
+
+.product {
+    color: #fafafa;
+    padding-left: 40px;
+    padding-bottom: 25px;
+}
