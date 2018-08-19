@@ -5,6 +5,40 @@
 }
 
 
+@media screen and (max-width: 700px) {
+  .flex-nav {
+    flex-direction:column;
+  }
+}
+
+/****************************text*/
+
+
+
+h5 {
+    padding-top:5px;
+    font-family: 'Do Hyeon', sans-serif;
+    color:#fafafa;
+    padding-left: 20%
+
+}
+
+h1 {
+    
+    padding-top: 10px;
+    font-family: 'Do Hyeon', sans-serif;
+    color:#fafafa;
+    text-align: center;
+}
+
+h4, h2, h3 {
+    font-family: 'Do Hyeon', sans-serif;
+    color:#fafafa;
+    text-align: center;
+}
+.uppercase {
+    text-transform: uppercase;
+}
 
 /****************************Background Colors*/
 
@@ -41,19 +75,14 @@
     padding:5px;
   flex-basis:20%;
 }
-@media screen and (max-width: 700px) {
-  .flex-nav {
-    flex-direction:column;
-  }
-}
+
 
 a:link:hover {
     text-decoration: none;
 }
 
-.uppercase {
-    text-transform: uppercase;
-}
+
+/****************************home page*/
 
 
 .opening {
@@ -64,13 +93,7 @@ a:link:hover {
 }
 
 
-
-.news {
-    font-family: 'Do Hyeon', sans-serif;
-    font-size: 30px;
-    text-align: center;
-}
-
+/****************************lists*/
 
 
 .ul-home {
@@ -79,56 +102,6 @@ a:link:hover {
     padding:0;
     overflow: hidden;
     background-color:#e01d20;
-}
-
-footer {
-  bottom: 0;
-  background-color:#e01d20;
-}
-
-h5 {
-    padding-top:5px;
-    font-family: 'Do Hyeon', sans-serif;
-    color:#fafafa;
-    padding-left: 20%
-
-}
-
-h1 {
-    
-    padding-top: 10px;
-    font-family: 'Do Hyeon', sans-serif;
-    color:#fafafa;
-}
-
-h4, h2, h3 {
-    font-family: 'Do Hyeon', sans-serif;
-    color:#fafafa;
-    text-align: center;
-}
-
-
-
-.center-page {
-    width: 700px;
-    padding-top: 10px;
-    margin-left: 22%;
-    padding-bottom: 10px;
-}
-
-/*/////////////////////////////Album work*/
- 
- 
-
-.greatest-hits {
-    padding-left: 10px;
-}
-
-.information {
-    font-family: 'Do Hyeon', sans-serif;
-    padding-top: 4%;
-    color: #fafafa;
-    
 }
 
 .social-links {
@@ -161,27 +134,28 @@ ul {
 }
 
 
-.greatest-hits {
-    float:left;
-    width:20%;
-    padding-top: 15px;
+/****************************footer*/
+
+footer {
+  bottom: 0;
+  background-color:#e01d20;
 }
 
-.key { 
-    display: inline-block;
-    width:30%;
-    margin-right: 21px;
-    padding-top:2px;
-    vertical-align: top;
+.news {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+    text-align: center;
 }
 
 
-.personal-info-item {
-    margin-bottom: 20px;
-    display:block;
-    clear: both;
-    
+.center-page {
+    width: 700px;
+    padding-top: 10px;
+    margin-left: 22%;
+    padding-bottom: 10px;
 }
+
+/*/////////////////////////////header*/
 
 .column {
     float: left;
@@ -194,6 +168,37 @@ ul {
     clear: both;
 }
 
+
+
+/*/////////////////////////////Album work*/
+ 
+ 
+
+.greatest-hits {
+    padding-left: 10px;
+}
+
+.information {
+    font-family: 'Do Hyeon', sans-serif;
+    padding-top: 4%;
+    color: #fafafa;
+    
+}
+
+.greatest-hits {
+    float:left;
+    width:20%;
+    padding-top: 15px;
+}
+
+
+/*/////////////////////////////shop+music*/
+
+.shirts {
+    padding-top: 25px;
+    padding-left: 30px;
+}
+
 .card{
     float: left;
     padding-left:7%;
@@ -202,11 +207,6 @@ ul {
     border:0;
 }
 
-.shirts {
-    padding-top: 25px;
-    width: 33%;
-    padding-left: 30px;
-}
 
 
 button[type="button"] {
@@ -222,3 +222,6 @@ button[type="button"] {
     padding-left: 40px;
     padding-bottom: 25px;
 }
+
+
+
