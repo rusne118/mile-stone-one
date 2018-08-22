@@ -104,12 +104,6 @@ a:link:hover {
     background-color:#e01d20;
 }
 
-.social-links {
-    padding-bottom: 15px;
-   display: inline-flex;
-   padding-left: 20%;
-    
-}
 
 .social-links li a i {
     width:32px;
@@ -124,6 +118,7 @@ a:link:hover {
 ul {
     list-style-type: none;
     font-family: 'Do Hyeon', sans-serif;
+    display: inline-flex;
 }
 
 .menu-item a{
@@ -176,6 +171,7 @@ footer {
 
 .greatest-hits {
     padding-left: 10px;
+    padding:10px;
 }
 
 .information {
@@ -224,4 +220,26 @@ button[type="button"] {
 }
 
 
+.center-form {
+    padding-top: 10px;
+    margin:0 auto;
+    max-width:70%;
+    font-family:'Do Hyeon', sans-serif;
+    
+}
 
+.center-form {
+    padding-top: 30px;
+    min-height:240px;
+    margin:0 auto;
+    max-width:50%;
+    font-family:'Do Hyeon', sans-serif;
+}
+
+
+button[type="submit"] {
+    margin-top:15px;
+    margin-bottom:20px;
+    margin-left: 40%;
+    
+}
