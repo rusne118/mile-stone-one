@@ -1,6 +1,6 @@
-                                      #Mile Stone Project One. By Rusne Supronaite.
+                                      ## Mile Stone Project One. By Rusne Supronaite.
 
-     #UX 
+     ## UX
      
 In this project I created a a webiste of 5 pages for the band The Monkees. 
 The idea to include the band memebers and a logo in the header came up because. Once I had the theme the header
@@ -8,25 +8,24 @@ looked very plain and also didnt really give any information to the user about w
 it was more likely they would not remember the webpage and therefore not visit again.
 
 
-    #Features
+    ## Features
     
 My first page only containes a main image of the band together as well as a contact us form. 
 This lets the user know that they have entered the bands website.
 
-## The header i have also kept images of each of the band memebers including their logo.
+ The header i have also kept images of each of the band memebers including their logo.
 this is a theme that i have kept throughout the the website.
 The lets the user know excatly what website they are on.
 
-## I orginally designed to be dark colours such shades or grey and white, however once i started putting in images 
+I orginally designed to be dark colours such shades or grey and white, however once i started putting in images 
 of the band and album work, this theme no longer blended well togeather. 
 At that point I changed the colour scheme to blue and red.
-
-## I tried a few different shades or reds and blues. but the reason i stuck with this one is because the logo in the 
+I tried a few different shades or reds and blues. but the reason i stuck with this one is because the logo in the 
 header is has a blue background and i notices that in alot of their artwork the title was red. 
 i used the red for the header and footer because i felt the red on the main body would be too distracting and
 would clash with all the text and images. 
 
- #Technogolgies used
+ ## Technogolgies used
 
  1. For my font I used Google fonts to find the one that best suited the theme. I originally pick out a very plain and 
 skinny text. However after showing family memebers and friends for critizism they all mentioned the font was 
