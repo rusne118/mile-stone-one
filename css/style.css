@@ -248,3 +248,7 @@ button[type="submit"] {
 i {
     padding:10px;
 }
+
+.tour-date {
+    color:#e01d20;
+}
