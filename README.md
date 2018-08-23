@@ -57,6 +57,21 @@ had to reupload the images and this fixed the issue.
 Some of my code was indeed based on other code, from one of my mimi projects. specifially I sampled the code for 
 the footer, I only needed the base layout of it. 
 
+## Credits 
+
+# Photos 
+- Center header logo - https://daeandwrite.wordpress.com/tag/book-club-for-we-are-all-completely-beside-ourselves/
+- Davy Jones - http://quotesk.com/165801/davy-jones-monkees/
+- Mickey Dolenz - https://www.lehighvalleylive.com/music/index.ssf/2014/02/micky_dolenz_of_the_monkees_to.html
+- Micheal Nesmith - http://awesome98.com/michael-nesmith-announced-his-return-to-the-monkees-in-a-facebook-post-about-some-amazing-soup-he-made/
+- Peter Tork - https://bijog.com/image/4592
+- Good times album cover - https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjF3-v7vIPdAhWDyIUKHZUNAC4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.mailonsunday.co.uk%2Fhome%2Fevent%2Farticle-3612632%2FPaul-Simon-s-just-boldest-album-star-70s.html&psig=AOvVaw2hKA1EqmzlmgjDA4tEX3-v&ust=1535124074239001
+- The very best of the monkees - https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjDr6yYvYPdAhUCxYUKHQFeCv4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.puentes.me%2Fepisodio%2Fchiste%2Fcosme_fulanito&psig=AOvVaw2YmMppFMWw_zlFfaDVRlTy&ust=1535124134758102
+- Headquarters - https://carlcafarelli.blogspot.com/2016/03/monkees-reissue-reviews.html
+- Im a believers - https://www.smule.com/recording/the-monkees-im-a-believer/376606170_1533984219/ensembles
+- Its nice to be with you - http://monkees.wikia.com/wiki/It%27s_Nice_to_Be_with_You
+- Pleasent Valley - http://monkee45s.net/Japan/SS1760400YPS1.html
+- A bit of me a little bit of you http://wimederveen51.blogspot.com/2012/08/
  
 
 
