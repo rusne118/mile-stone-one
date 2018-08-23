@@ -1,4 +1,5 @@
-## Mile Stone Project One. By Rusne Supronaite.
+# Mile Stone Project One. 
+## By Rusne Supronaite.
 ## UX
      
 In this project I created a a webiste of 5 pages for the band The Monkees. 
